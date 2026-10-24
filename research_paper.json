@@ -1,0 +1,10 @@
+{
+“project_name”: “Research Paper Assistant”,
+“research_topic”: “The Impact of Artificial Intelligence on Education”,
+“academic_discipline”: “Social Sciences and Education”,
+“academic_level”: “Undergraduate Senior Thesis”,
+“methodology”: “Mixed-Methods Triangulation”,
+“citation_style”: “APA 7th Edition”,
+“app_prompt”: “Build a web application called Research Paper Assistant. Let students enter a research topic and generate a structured academic research paper draft with Title, Abstract, Introduction, Research Questions, Methodology, Findings, Discussion, Conclusion, and References. Include a clean interface, a Generate button, and options to copy or download the paper. Never invent citations or research results; clearly flag unverified sources. Build and test the app.”,
+“verification_note”: “Verify all citations and research claims before academic submission. Do not present synthetic findings as real empirical results.”
+}
